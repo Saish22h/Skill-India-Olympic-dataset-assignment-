@@ -1,2 +1,3 @@
 # Skill-India-Olympic-dataset-assignment-
-This contains a my assignment for the Olympic dataset.
+This contains my assignment for the Olympic dataset.
+I have answered the questions from the assignment in the Summer named notebook.
